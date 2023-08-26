@@ -47,6 +47,33 @@ yarn dev
 - Manage hiring_organization.
 - Manage news.
 
+## Test account
+
+Recruitment website https://job-seek-pro.vercel.app/
+
+Role Seeker
+
+```
+username: seeker1
+password: Tester101!
+```
+
+Management website https://job-seek-pro.vercel.app/admin
+
+Role Hiring organization
+
+```
+username: hiring1
+password: Tester101!
+```
+
+Role Admin
+
+```
+username: secretadmin
+password: job-seek-pro
+```
+
 ## Contributors
 
 - [@minhduc-mll](https://github.com/minhduc-mll) 💻
